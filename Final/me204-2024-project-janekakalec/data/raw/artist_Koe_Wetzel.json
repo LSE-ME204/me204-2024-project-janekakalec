@@ -1,0 +1,36 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+    },
+    "followers": {
+        "href": null,
+        "total": 757205
+    },
+    "genres": [
+        "classic texas country",
+        "modern country pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1Tie3AZgLQZqYEp8Fv4zOZ",
+    "id": "1Tie3AZgLQZqYEp8Fv4zOZ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebef63196a4cdfd5a8fca36ff0",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174ef63196a4cdfd5a8fca36ff0",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178ef63196a4cdfd5a8fca36ff0",
+            "width": 160
+        }
+    ],
+    "name": "Koe Wetzel",
+    "popularity": 75,
+    "type": "artist",
+    "uri": "spotify:artist:1Tie3AZgLQZqYEp8Fv4zOZ"
+}

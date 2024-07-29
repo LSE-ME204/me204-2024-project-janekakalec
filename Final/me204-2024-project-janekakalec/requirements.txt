@@ -1,0 +1,9 @@
+Neccesary Packages:
+pandas
+requests
+os
+json
+base64
+sqlite3
+numerize
+lets-plot

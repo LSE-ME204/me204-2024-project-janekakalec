@@ -1,0 +1,38 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+    },
+    "followers": {
+        "href": null,
+        "total": 1543299
+    },
+    "genres": [
+        "contemporary country",
+        "country",
+        "country road",
+        "modern country rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6y8XlgIV8BLlIg1tT1R10i",
+    "id": "6y8XlgIV8BLlIg1tT1R10i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebd97f878e623feca422533fcb",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174d97f878e623feca422533fcb",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178d97f878e623feca422533fcb",
+            "width": 160
+        }
+    ],
+    "name": "Old Dominion",
+    "popularity": 70,
+    "type": "artist",
+    "uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i"
+}

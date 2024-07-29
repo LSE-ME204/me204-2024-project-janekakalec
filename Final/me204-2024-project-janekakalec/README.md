@@ -1,0 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VaFOWmpj)
+To run this code: 
+Miniconda must be installed to create the proper python environment. You must also create a spotify developers account. I had to create an app and gain the app secret and client id to run my code. I had to clone the repository for this assignment to my machine. I had to set up a .json file with my credentials for spotify. All the necessary packages in the requirements.txt file must also be installed
+
+GEN AI awknowledgement: This project was created with the use of generative AI (CHAT GPT). I used chatgpt to help convert the given code from spotify into useable code in my python environment. I also used generative AI to help filter the data to specify which artists were specifically country. I also used it to learn how to sum the total followers. Chatgpt was also used to fix errors I ran into along the way.

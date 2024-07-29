@@ -1,0 +1,7 @@
+About me: I am a student from Wesleyan University in Connecticut, USA studying economics. I created this project as part of the LSE Summer School ME204 course. 
+
+I chose spotify for my data source because I am an avid music listener and thought it would be interesting to look at trends in listening data. The data was collected using the spotify for developers API. The challenging part of collecting the data was transforming the code provided to developers on spotify in to readable code for python. Another challenging part was filtering the data to look exclusively at country artists- ex. not contemporary country or oklahoma country. 
+
+Key findings: Looking at this data I found many interesting things. I learned that spotify creates many subdivisons of country music and not many artists were classified as exclusively country. I also noticed that number of followers does not directly correlate with popularity (though similar). Once I created my visuals I found the most popular subdivison of country music was contemporary country with 119 million aggregate followers. I also found the most popular artist who does purely "country music" is Luke Combs who has almost 11 million followers.
+
+With more time in the future, I think it would be interesting to see the difference in popularity of male and female country artists. I also think it would be interesting to expand the database to any genres on spotify to see what genre is most popular and the difference accross all the genres of music.

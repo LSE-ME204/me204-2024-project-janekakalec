@@ -1,0 +1,38 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+    },
+    "followers": {
+        "href": null,
+        "total": 3586150
+    },
+    "genres": [
+        "contemporary country",
+        "country",
+        "country dawn",
+        "country road"
+    ],
+    "href": "https://api.spotify.com/v1/artists/66lH4jAE7pqPlOlzUKbwA0",
+    "id": "66lH4jAE7pqPlOlzUKbwA0",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb88989ce8f824f1aa19d059c4",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517488989ce8f824f1aa19d059c4",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17888989ce8f824f1aa19d059c4",
+            "width": 160
+        }
+    ],
+    "name": "Miranda Lambert",
+    "popularity": 69,
+    "type": "artist",
+    "uri": "spotify:artist:66lH4jAE7pqPlOlzUKbwA0"
+}
